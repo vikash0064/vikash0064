@@ -29,7 +29,7 @@ Email Me 👉 ✉️ **vikashkushwaha726@gmail.com** For Collaboration/Project o
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** vikashkushwaha726@gmial.com
 - 😄 **Pronouns:** Vikash kushwaha
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- ⚡ **Fun fact:** I'm a techiee
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vikash0064&theme=radical&no-frame=false&no-bg=true&margin-w=4)
