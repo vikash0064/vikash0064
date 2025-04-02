@@ -14,10 +14,10 @@
 
 ### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4503d891-510a-4ebd-94c4-ef8958a2e8d4" width="20"> About Me
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-<div class="about-main" style="display: flex;">
+<!-- <div class="about-main" style="display: flex;">
     <div align="left" style="display: flex; margin: 0px 70px 0px 15px; box-shadow: 10px 10px 13px -3px rgba(255,255,255,0.5);" class="about-left">
         <img align="left" src="https://media1.giphy.com/media/KVr0JbrdBp9KX644Bk/giphy.gif?cid=6c09b952xez7nlw7p7v21pu2vq5schadr5btdsq75f7nznd7&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g " height="300" width="250">
-    </div>
+    </div> -->
  
 
 Email Me 👉 ✉️ **vikashkushwaha726@gmail.com** For Collaboration/Project or Anything Else. 😊😊
