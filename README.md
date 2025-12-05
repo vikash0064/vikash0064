@@ -23,9 +23,9 @@
 Email Me 👉 ✉️ **vikashkushwaha726@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Sports Management system
-- 🌱 **I’m currently learning:** Javascript/PHP/SQL
-- 👯 **I’m looking to collaborate on:** Sports Management system
-- 🤔 **I’m looking for help with:** Sports Management system
+- 🌱 **I’m currently learning:** MERN stack
+- 👯 **I’m looking to collaborate on:** Travel Planning and Group Itinerary Platform
+- 🤔 **I’m looking for help with:** Group Itinerary Platform
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** vikashkushwaha726@gmial.com
 - 😄 **Pronouns:** Vikash kushwaha
