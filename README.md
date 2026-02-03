@@ -20,16 +20,18 @@
     </div> -->
  
 
-Email Me 👉 ✉️ **vikashkushwaha726@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+📧 **Email Me 👉 ✉️ vikashkushwaha726@gmail.com**  
+_For collaboration, projects, or anything else_ 😊
 
-- 🔭 **I’m currently working on:** Sports Management system
-- 🌱 **I’m currently learning:** MERN stack
-- 👯 **I’m looking to collaborate on:** Travel Planning and Group Itinerary Platform
-- 🤔 **I’m looking for help with:** Group Itinerary Platform
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** vikashkushwaha726@gmial.com
-- 😄 **Pronouns:** Vikash kushwaha
-- ⚡ **Fun fact:** I'm a techiee
+- 🔭 **Currently working on:** Hotel Management System
+- 🌱 **Currently learning:** Artificial Intelligence & Generative AI  
+- 👯 **Looking to collaborate on:** AI-based Stock Prediction Project  
+- 🤔 **Looking for contributions on:** Building, improving, and scaling my Stock Prediction AI  
+- 💬 **Ask me about:** AI, GenAI, Full-Stack Development, Collaboration, Tech Support  
+- ⚡ **Fun fact:**  
+  Exploring AI by day 🤖, building real-world systems by night 💻 —  
+  turning ideas into intelligent products 🚀
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vikash0064&theme=radical&no-frame=false&no-bg=true&margin-w=4)
